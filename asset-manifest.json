@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-lx8cqt/static/css/main.d29c41ab.chunk.css",
-    "main.js": "https://.github.io/csb-lx8cqt/static/js/main.01cf4204.chunk.js",
-    "main.js.map": "https://.github.io/csb-lx8cqt/static/js/main.01cf4204.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-lx8cqt/static/js/runtime-main.bc1a736c.js",
-    "runtime-main.js.map": "https://.github.io/csb-lx8cqt/static/js/runtime-main.bc1a736c.js.map",
-    "static/js/2.76f56b4a.chunk.js": "https://.github.io/csb-lx8cqt/static/js/2.76f56b4a.chunk.js",
-    "static/js/2.76f56b4a.chunk.js.map": "https://.github.io/csb-lx8cqt/static/js/2.76f56b4a.chunk.js.map",
-    "index.html": "https://.github.io/csb-lx8cqt/index.html",
-    "precache-manifest.3ccaed937ca594db31d1c5aef569bcc7.js": "https://.github.io/csb-lx8cqt/precache-manifest.3ccaed937ca594db31d1c5aef569bcc7.js",
-    "service-worker.js": "https://.github.io/csb-lx8cqt/service-worker.js",
-    "static/css/main.d29c41ab.chunk.css.map": "https://.github.io/csb-lx8cqt/static/css/main.d29c41ab.chunk.css.map",
-    "static/js/2.76f56b4a.chunk.js.LICENSE.txt": "https://.github.io/csb-lx8cqt/static/js/2.76f56b4a.chunk.js.LICENSE.txt"
+    "main.css": "https://josephmerand.github.io/csb-lx8cqt/static/css/main.d29c41ab.chunk.css",
+    "main.js": "https://josephmerand.github.io/csb-lx8cqt/static/js/main.03f29fcc.chunk.js",
+    "main.js.map": "https://josephmerand.github.io/csb-lx8cqt/static/js/main.03f29fcc.chunk.js.map",
+    "runtime-main.js": "https://josephmerand.github.io/csb-lx8cqt/static/js/runtime-main.5097ffba.js",
+    "runtime-main.js.map": "https://josephmerand.github.io/csb-lx8cqt/static/js/runtime-main.5097ffba.js.map",
+    "static/js/2.ed831343.chunk.js": "https://josephmerand.github.io/csb-lx8cqt/static/js/2.ed831343.chunk.js",
+    "static/js/2.ed831343.chunk.js.map": "https://josephmerand.github.io/csb-lx8cqt/static/js/2.ed831343.chunk.js.map",
+    "index.html": "https://josephmerand.github.io/csb-lx8cqt/index.html",
+    "precache-manifest.0a0cd0f78036b4a65fbf6cf4353637fa.js": "https://josephmerand.github.io/csb-lx8cqt/precache-manifest.0a0cd0f78036b4a65fbf6cf4353637fa.js",
+    "service-worker.js": "https://josephmerand.github.io/csb-lx8cqt/service-worker.js",
+    "static/css/main.d29c41ab.chunk.css.map": "https://josephmerand.github.io/csb-lx8cqt/static/css/main.d29c41ab.chunk.css.map",
+    "static/js/2.ed831343.chunk.js.LICENSE.txt": "https://josephmerand.github.io/csb-lx8cqt/static/js/2.ed831343.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc1a736c.js",
-    "static/js/2.76f56b4a.chunk.js",
+    "static/js/runtime-main.5097ffba.js",
+    "static/js/2.ed831343.chunk.js",
     "static/css/main.d29c41ab.chunk.css",
-    "static/js/main.01cf4204.chunk.js"
+    "static/js/main.03f29fcc.chunk.js"
   ]
 }
